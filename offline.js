@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1589478511,
+	"version": 1589989721,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,7 @@
 		"images/sile-sheet0.png",
 		"images/sile-sheet1.png",
 		"images/esxplosion-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/gameover.m4a",
 		"media/gameover.ogg",
 		"media/match.m4a",

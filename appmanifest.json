@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Candy Match 3 Template",
-	"short_name": "Candy Match 3 Template",
+	"name": "Match3",
+	"short_name": "Match3",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
